@@ -1,4 +1,5 @@
-﻿Nombre;Director;Protganista;País
-Interstellar;Christopher Nolan;Matthew Mcgonaughey;EEUU
-El irlandés;Martin Scorsese;Robert DeNiro;EEUU
-El padrino;Martin Scorsese;Al Pacino;EEUU
+﻿Nombre;Director;Protagonista;Genero;Pais
+Interstellar;Christopher Nolan;Matthew Mcgonaughey;Aventuras;EEUU
+El irlandés;Martin Scorsese;Robert DeNiro;Mafia;EEUU
+El padrino;Martin Scorsese;Al Pacino;Mafia;EEUU
+Ocho apellidos Vascos;Emilio Martínez Lázaro;Dani Rovira;Comedia;España
